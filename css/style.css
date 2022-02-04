@@ -79,6 +79,7 @@ img {
     border-radius: 30px;
     width: 650px;
     transition: .5s ease;
+    padding: 0px;
     /* box-shadow: 5px 5px 0px #ffffff; */
 }
 
@@ -100,6 +101,11 @@ footer p {
     font-size: 16px;
     background-color: #0873B5;
     text-align: center;
+}
+
+.islands h3 a:hover{
+    color: #0873B5;
+    font-size: 97%;
 }
 
 .skip, .back {
